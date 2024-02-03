@@ -1,2 +1,2 @@
 # modules-ci-testing-integration-tests
-A repo for testing modules testing ci
+Repository used for testing out modules ci testing VCS integration
