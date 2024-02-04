@@ -4,5 +4,3 @@ resource "local_file" "test" {
 }
 
 resource "null_resource" "null" {}
-
-resource "null_resource" "null2" {}
